@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "505",
+  "base_artist": "Arctic Monkeys",
+  "createdAt": "2026-01-08T18:51:01.693748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/01_505_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/02_505_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flight 505",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/03_Flight_505_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flight 505",
+      "artist": "Rolling Stones",
+      "has_synced": true,
+      "path": "select/04_Flight_505_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flight 505",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/05_Flight_505_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/06_505_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/07_505_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "505 - Live",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/08_505_-_Live_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Simple Minds-505-take a step back",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/09_Simple_Minds-505-take_a_step_back_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "505 (Instrumental)",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/10_505_(Instrumental)_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Имя 505",
+      "artist": "Время и Стекло",
+      "has_synced": true,
+      "path": "select/11_Имя_505_Время_и_Стекло.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Имя 505 - Remix",
+      "artist": "Время и Стекло",
+      "has_synced": true,
+      "path": "select/12_Имя_505_-_Remix_Время_и_Стекло.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "505",
+      "artist": "As Tall As Lions",
+      "has_synced": true,
+      "path": "select/13_505_As_Tall_As_Lions.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "has_synced": false,
+      "path": "select/pl_01_505_Arctic_Monkeys.txt"
+    }
+  ]
+}
